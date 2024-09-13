@@ -32,3 +32,5 @@ This project is a pixel-perfect replica of the Spotify homepage, built using HTM
 # Technologies Used:
 1. HTML
 2. CSS
+
+# Created by Kumari Kirti Jha
